@@ -1,0 +1,7 @@
+Testcase: edu.umb.cs680.hw02.CalculatorTest
+Test: Division_20And4() took 80 milli sec(s)
+Test: Multiply_3And5() took 2 milli sec(s)
+Test: Multiply_6And0() took 2 milli sec(s)
+Test: Division_5By0() took 1 milli sec(s)
+Test: Multiply_3AndNegative1() took 1 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 122 milli sec(s)
