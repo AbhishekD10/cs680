@@ -1,0 +1,6 @@
+Testcase: edu.umb.cs680.hw13.observer.observerTest
+Test: stockQuoteObservableVerification() took 52 milli sec(s)
+Test: dijaQuoteObservableVerification() took 14 milli sec(s)
+Tests run: 2, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 191 milli sec(s)
+------------- Standard Output ---------------
+ThreeDObserver of StockEventHello 151.0TableObserver of StockEventHello 151.0PieChart of StockEventHello 151.0ThreeDObserver of StockEventWorld 254.0TableObserver of StockEventWorld 254.0PieChart of StockEventWorld 254.0ThreeDObserver of DJIAEvent25.0TableObserver of DJIAEvent25.0PieChart of DJIAEvent25.0ThreeDObserver of DJIAEvent56.0TableObserver of DJIAEvent56.0PieChart of DJIAEvent56.0------------- ---------------- ---------------
