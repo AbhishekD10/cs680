@@ -1,0 +1,7 @@
+Testcase: edu.umb.cs680.hw10.apfs.APFSTest
+Test: createDefaultRootVerification() took 66 milli sec(s)
+Test: createDefaultRootError() took 5 milli sec(s)
+Test: getRootDirsError() took 2 milli sec(s)
+Test: getRootDirsVerification() took 5 milli sec(s)
+Test: APFSVerification() took 5 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 127 milli sec(s)
