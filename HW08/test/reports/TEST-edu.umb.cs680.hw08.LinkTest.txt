@@ -1,0 +1,6 @@
+Testcase: edu.umb.cs680.hw08.LinkTest
+Test: LinkRootXError() took 19 milli sec(s)
+Test: LinkRootYError() took 1 milli sec(s)
+Test: LinkRootYVerification() took 1 milli sec(s)
+Test: LinkRootXVerification() took 1 milli sec(s)
+Tests run: 4, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 27 milli sec(s)

@@ -1,0 +1,9 @@
+Testcase: edu.umb.cs680.hw08.FileTest
+Test: error_FileA() took 1 milli sec(s)
+Test: error_FileB() took 0 milli sec(s)
+Test: error_FileC() took 1 milli sec(s)
+Test: error_FileD() took 1 milli sec(s)
+Test: error_FileE() took 2 milli sec(s)
+Test: error_FileF() took 2 milli sec(s)
+Test: pass_FileF() took 2 milli sec(s)
+Tests run: 7, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 19 milli sec(s)
