@@ -1,0 +1,6 @@
+Testcase: edu.umb.cs680.hw07.DirectoryTest
+Test: DirectoryHomeVerification() took 60 milli sec(s)
+Test: DirectoryApplicationsVerification() took 1 milli sec(s)
+Test: DirectoryRootVerification() took 1 milli sec(s)
+Test: DirectoryCodeVerification() took 2 milli sec(s)
+Tests run: 4, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 120 milli sec(s)
